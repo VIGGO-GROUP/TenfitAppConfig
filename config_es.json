@@ -1,0 +1,475 @@
+{
+    "HorizonLayout": [
+        {
+            "layout": "logo",
+            "showMenu": true,
+            "logoSize": 40,
+            "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/logo_tenfit_app.png?v=1714134191",
+            "showSearch": true,
+            "showLogo": true,
+            "enableBackground": true
+        },
+        {
+            "layout": "category",
+            "type": "icon",
+            "useFor": "mobile",
+            "wrap": false,
+            "size": 9.0,
+            "radius": 50.0,
+            "enableBackground": false,
+            "items": [
+                {
+                    "showDescription": false,
+                    "originalColor": false,
+                    "keepDefaultTitle": true,
+                    "category": "gid://shopify/Collection/461347062036",
+                    "title": "Hombre",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/ICONO_HOMBRE_Mesa_de_trabajo_1.png?v=1712941174",
+                    "orderby": "title",
+                    "order": "asc"
+                },
+                {
+                    "showDescription": false,
+                    "originalColor": false,
+                    "keepDefaultTitle": true,
+                    "category": "gid://shopify/Collection/461181845780",
+                    "title": "Mujer",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/ICONO_MUJER__Mesa_de_trabajo_1.png?v=1712939413",
+                    "orderby": "title",
+                    "order": "asc"
+                },
+                {
+                    "showDescription": false,
+                    "originalColor": false,
+                    "keepDefaultTitle": true,
+                    "category": "gid://shopify/Collection/458708451604",
+                    "title": "Niño",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/NINOS.jpg?v=1713626195",
+                    "orderby": "title",
+                    "order": "asc"
+                },
+                {
+                    "showDescription": false,
+                    "originalColor": false,
+                    "keepDefaultTitle": true,
+                    "category": "gid://shopify/Collection/475136786708",
+                    "title": "Bike",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/BIKEMesa_de_trabajo_1_copia.png?v=1713824935",
+                    "orderby": "title",
+                    "order": "asc"
+                },
+                {
+                    "showDescription": false,
+                    "originalColor": false,
+                    "keepDefaultTitle": true,
+                    "category": "gid://shopify/Collection/461610549524",
+                    "title": "Accesorios",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/ICONO_ACCESORIOS_Mesa_de_trabajo_1.png?v=1713626197",
+                    "orderby": "title",
+                    "order": "asc"
+                }
+            ]
+        },
+        {
+            "layout": "bannerImage",
+            "isSlider": true,
+            "autoPlay": false,
+            "showNumber": false,
+            "design": "default",
+            "showBackGround": true,
+            "radius": 2.0,
+            "enableBackground": true,
+            "items": [
+                {
+                    "category": "gid://shopify/Collection/478774690068",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/BANNER_CAMISETAS_COOL_DRY.webp?v=1713017083",
+                    "padding": 15.0
+                },
+                {
+                    "category": "gid://shopify/Collection/479794331924",
+                    "image": "https://ropadeportiva.tenfit.co/cdn/shop/files/BANNER_04.webp?v=1714083100&width=1500",
+                    "padding": 15.0
+                },
+                {
+                    "category": "gid://shopify/Collection/475136786708",
+                    "image": "https://ropadeportiva.tenfit.co/cdn/shop/files/BANNER_01.webp?v=1714083100&width=1500",
+                    "padding": 15.0
+                },
+                {
+                    "category": "gid://shopify/Collection/475136786708",
+                    "image": "https://ropadeportiva.tenfit.co/cdn/shop/files/BANNER_03.webp?v=1714083101&width=1500",
+                    "padding": 15.0
+                },
+                {
+                    "category": "gid://shopify/Collection/462006944020",
+                    "image": "https://ropadeportiva.tenfit.co/cdn/shop/files/BANNER_02.webp?v=1714083101&width=1500",
+                    "padding": 15.0
+                }
+            ]
+        },
+        {
+            "layout": "category",
+            "type": "twoRow",
+            "wrap": true,
+            "useFor": "mobile",
+            "showShortDescription": true,
+            "size": 1.0,
+            "radius": 150.0,
+            "title": "Modas",
+            "spacing": 12.0,
+            "items": [
+                {
+                    "category": "gid://shopify/Collection/4479854264596",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/Sin_titulo-1-04.png?v=1714082154",
+                    "showText": true,
+                    "originalColor": true,
+                    "keepDefaultTitle": false,
+                    "showDescription": false,
+                    "productType": false,
+                    "title": "Chaquetas",
+                    "onSale": false,
+                    "isFeatured": false
+                },
+                {
+                    "category": "gid://shopify/Collection/458707894548",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/Sin_titulo-1-02.png?v=1714082156",
+                    "showText": true,
+                    "originalColor": true,
+                    "keepDefaultTitle": false,
+                    "showDescription": false,
+                    "productType": false,
+                    "title": "Leggins",
+                    "onSale": false,
+                    "isFeatured": false
+                },
+                {
+                    "category": "gid://shopify/Collection/",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/Sin_titulo-1-05.png?v=1714082154",
+                    "showText": true,
+                    "originalColor": true,
+                    "keepDefaultTitle": false,
+                    "showDescription": false,
+                    "productType": false,
+                    "title": "Shakers",
+                    "onSale": false,
+                    "isFeatured": false
+                },
+                {
+                    "category": "gid://shopify/Collection/475136786708",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/Sin_titulo-1-03.png?v=1714082156",
+                    "showText": true,
+                    "originalColor": true,
+                    "keepDefaultTitle": false,
+                    "showDescription": false,
+                    "productType": false,
+                    "title": "Bike",
+                    "onSale": false,
+                    "isFeatured": false
+                }
+            ],
+            "line": false,
+            "marginLeft": 16.0,
+            "marginRight": 16.0,
+            "marginTop": 10.0,
+            "marginBottom": 10.0,
+            "paddingX": 10.0,
+            "paddingY": 10.0,
+            "marginX": 0.0,
+            "marginY": 0.0,
+            "hideTitle": false,
+            "noBackground": false,
+            "imageBorderWidth": 0.0,
+            "imageBorderColor": "ffe61a00",
+            "imageBorderStyle": "dot",
+            "imageSpacing": 0.0,
+            "border": 0.6,
+            "enableBorder": false,
+            "textAlignment": "topCenter",
+            "imageBoxFit": "fitWidth",
+            "columns": 4,
+            "itemSize": {
+                "width": 270.0,
+                "height": 118.0
+            }
+        },
+        {
+            "key": "v14g5clzc34tf8",
+            "name": "A la venta hoy ⚡️",
+            "layout": "saleOff",
+            "isSnapping": true,
+            "rows": 1,
+            "columns": 0,
+            "imageBoxfit": "cover",
+            "imageRatio": 1.2,
+            "hMargin": 9.0,
+            "vMargin": 30.0,
+            "hPadding": 8.0,
+            "vPadding": 6.0,
+            "pos": 400,
+            "showStockStatus": false,
+            "enableRating": true,
+            "hideTitle": false,
+            "hideStore": false,
+            "onSale": true,
+            "hidePrice": false,
+            "featured": false,
+            "showHeart": true,
+            "showCartButton": false,
+            "cartIconRadius": 9.0,
+            "showQuantity": false,
+            "showCartIconColor": false,
+            "showCartIcon": false,
+            "enableBottomAddToCart": false,
+            "cardDesign": "card",
+            "borderRadius": 12.0,
+            "backgroundRadius": 0.0,
+            "showCartButtonWithQuantity": false,
+            "category": "gid://shopify/Collection/478587126036",
+            "tag": null,
+            "showCountDown": true,
+            "backgroundColor": "ffF1F8FA",
+            "backgroundImage": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/FLASH_SALE.png?v=1713629950",
+            "spaceWidth": 130.0,
+            "backgroundHeight": 288.0,
+            "backgroundBoxFit": "contain",
+            "parallax": true,
+            "parallaxImageRatio": 1.2,
+            "boxShadow": {
+                "blurRadius": 14.0,
+                "colorOpacity": 0.1,
+                "spreadRadius": 10.0,
+                "x": 0.0,
+                "y": 6.0
+            },
+            "hideEmptyProductLayout": false,
+            "enableBackground": true
+        },
+        {
+            "name": "JACKET THUNDER",
+            "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/bloque_portada-02.webp?v=1714153852",
+            "layout": "twoColumn",
+            "category": "gid://shopify/Collection/479854264596",
+            "enableBackground": true
+        },
+        {
+            "name": "Vista reciente",
+            "layout": "recentView"
+        },
+        {
+            "name": "Nuevas colecciones",
+            "layout": "staggered",
+            "limit": 20,
+            "category": "gid://shopify/Collection/460988547348"
+        },
+        {
+            "useFor": "mobile",
+            "layout": "bannerGrid"
+        }
+    ],
+    "Setting": {
+        "MainColor": "#00C3FF",
+        "FontFamily": "Poppins",
+        "FontHeader": "Raleway",
+        "ProductListLayout": "list",
+        "StickyHeader": true,
+        "ShowChat": true,
+        "useMaterial3": true,
+        "AgeRestriction": {
+            "enable": false,
+            "imageUrl": "",
+            "backgroundImageUrl": "",
+            "title": "Bienvenido a nuestra tienda\nDebe tener 18 años o más para ingresar",
+            "deniedMessage": "No tiene edad legal para usar esta aplicación",
+            "hintMessage": "¿Cuál es tu año de nacimiento?",
+            "minimumAge": 18,
+            "useLogo": true,
+            "alwaysShowUponOpen": true
+        },
+        "SmartEngagementBanner": {
+            "popup": {
+                "enable": true,
+                "data": {
+                    "layout": "bannerImage",
+                    "design": "static",
+                    "fit": "fitHeight",
+                    "marginLeft": null,
+                    "items": [
+                        {
+                            "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/TENFIT_FRONTAL.webp?v=1713627469",
+                            "showSubcategory": false,
+                            "bannerWithProduct": false,
+                            "defaultShowProduct": false,
+                            "products": [],
+                            "category": "gid://shopify/Collection/479222399252",
+                            "padding": 0.0
+                        }
+                    ],
+                    "marginBottom": 10.0,
+                    "height": 0.45,
+                    "marginRight": null,
+                    "marginTop": 10.0,
+                    "enableParallax": false,
+                    "parallaxImageRatio": 1.2,
+                    "isHorizontal": false,
+                    "parallax": false,
+                    "key": "p2oq4zc4hg"
+                },
+                "alwaysShowUponOpen": true,
+                "closePosition": "topRight",
+                "updatedTime": 1661314494281
+            },
+            "flexible": {
+                "enable": false,
+                "data": {
+                    "alignment": "topCenter",
+                    "marginTop": 0.0,
+                    "marginBottom": 0.0,
+                    "items": [
+                        {
+                            "image": "https://assets9.lottiefiles.com/private_files/lf30_a4mKwA.json",
+                            "width": 100.0,
+                            "height": 80.0,
+                            "borderRadius": 2.0,
+                            "marginLeft": 0.0,
+                            "marginRight": 0.0,
+                            "textFontSize": 14.0,
+                            "useMaxWidth": true,
+                            "navigator": {
+                                "showSubcategory": true,
+                                "coupon": "TOP DIANA UNICOLOR"
+                            }
+                        }
+                    ],
+                    "layout": "button"
+                },
+                "canDrag": true,
+                "canClose": true,
+                "width": 100.0,
+                "height": 100.0
+            },
+            "sticky": {
+                "enable": false,
+                "data": {
+                    "layout": "bannerImage",
+                    "design": "static",
+                    "fit": "fitWidth",
+                    "marginLeft": 10.0,
+                    "items": [
+                        {
+                            "image": "https://i.imgur.com/LUaEM3v.jpeg",
+                            "showSubcategory": false,
+                            "bannerWithProduct": false,
+                            "defaultShowProduct": false,
+                            "products": [],
+                            "coupon": "halfprice",
+                            "padding": 0.0,
+                            "radius": 9.0
+                        }
+                    ],
+                    "marginBottom": 10.0,
+                    "marginRight": 10.0,
+                    "marginTop": 10.0,
+                    "height": 0.2,
+                    "enableParallax": false,
+                    "parallaxImageRatio": 1.2,
+                    "isHorizontal": false,
+                    "parallax": false,
+                    "key": "ga8oe39k5t"
+                }
+            }
+        }
+    },
+    "TabBar": [
+        {
+            "layout": "home",
+            "icon": "assets/icons/tabs/home_icon.png"
+        },
+        {
+            "layout": "category",
+            "icon": "assets/icons/tabs/menu_icon.png",
+            "remapCategories": [
+                {
+                    "category": "gid://shopify/Collection/461347062036",
+                    "name": "Hombre",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/HOMBRE.png?v=1713626195"
+                },
+                {
+                    "category": "gid://shopify/Collection/461181845780",
+                    "name": "Mujer",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/BANNER_CATEGORIA_MUJER_WEBP.webp?v=1708619680"
+                },
+                {
+                    "category": "gid://shopify/Collection/458708451604",
+                    "name": "Niños",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/BUZO_DE_COMRPESION_NINO_Mesa_de_trabajo_1.webp?v=1712777756"
+                },
+                {
+                    "category": "gid://shopify/Collection/461610549524",
+                    "name": "Accesorios",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/ACCESORIES_640X640_dba30d40-2ab6-409f-8e6f-f10d6f1fcbf6.webp?v=1696284404"
+                },
+                {
+                    "category": "gid://shopify/Collection/475136786708",
+                    "name": "Bike",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/BANNER--PRODUCTOS-NUEVOS-BIKER-FINAL-MUJER.jpg?v=1708606912"
+                }
+            ]
+        },
+        {
+            "layout": "search",
+            "icon": "assets/icons/tabs/search_icon.png"
+        },
+        {
+            "pos": 400,
+            "icon": "assets/icons/tabs/cart_icon.png",
+            "layout": "cart"
+            
+        },
+        {
+            "layout": "profile",
+            "icon": "assets/icons/tabs/profile_icon.png"
+        }
+    ],
+    "searchSuggestion": ["Aquí hay algunas sugerencias:", "Camiseta", "Jersey", "Sudadera"],
+    "PrivacyPoliciesPageUrlOrId": "https://ropadeportiva.tenfit.co/pages/politicas-y-privacidad-tenfit",
+    "MetaSeo": {
+        "app": {
+            "excludes": ["checkout"],
+            "config": {
+                "author": "InspireUI",
+                "description": "Soluciones y servicios móviles totalmente en uno para nuevas empresas, desarrolladores, emprendedores y más ...",
+                "keywords": ["Flutter", "Dart", "SEO", "Meta", "Web", "FluxStore", "FluxBuilder"]
+            }
+        },
+        "routes": [
+            {
+                "route": "dashboard",
+                "config": {
+                    "author": "InspireUI",
+                    "description": "Soluciones y servicios móviles totalmente en uno para nuevas empresas, desarrolladores, emprendedores y más ...",
+                    "keywords": ["Flutter", "Dart", "SEO", "Meta", "Web", "FluxStore"]
+                }
+            }
+        ]
+    },
+    "Drawer": {
+        "logo": "assets/images/logo_app_menu_4-03.png",
+        "zoomConfig": {
+            "style": "style1",
+            "enableShadow": true,
+            "angle": -5
+        },
+        "items": [
+            { "type": "home", "show": false },
+            { "type": "blog", "show": false },
+            { "type": "categories", "show": true },
+            { "type": "cart", "show": true },
+            { "type": "profile", "show": true },
+            { "type": "login", "show": false },
+            { "type": "category", "show": false }
+        ]
+    },
+    "overrideTranslation": {
+        "copyright": "Copyright © 2024 InKode SAS. Todos los derechos reservados."
+    }
+}
